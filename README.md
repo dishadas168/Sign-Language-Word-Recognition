@@ -5,6 +5,19 @@ In each video, an ASL signer is signing a meaningful sentence. In a typical ASL 
 
 ![Img1](/hands_nose_position.png)
 
+# File Summary
+
+submission.py: Contains main program in parts
+
+hmm_submission_test.py: Unit tests for testing correct implementation of problems
+
+notebook2script.py: Converts notebook to python submission file
+
+notebook.ipynb: Executable notebook with instructions
+
+
+
+
 
 
 
